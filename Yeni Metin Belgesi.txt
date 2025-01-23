@@ -1,0 +1,178 @@
+Robotik ve Robotik Kodlama Nedir?
+Robotik; bilgisayar, yazýlým, makine ve kontrol birimleri ile beraber uzay bilimlerini de içine alan ortak bir çalýþma alanýdýr. Birçok mühendislik disiplinin bir araya gelmesiyle beraber ortaya çýkmaktadýr. Çünkü robotik alanýnda belli koþullara göre çalýþabilmesi, mekanizmalarýn tasarlanmasý, bunlarýn kontrollerinin gerçekleþtirilmesi için elektronik donanýmlarýn eklenmesi ve dijital ortamda kontrollerinin saðlanmasý için birçok mühendislik dalýnýn bir arada çalýþmasý gerekmektedir.
+
+Robotlar ise sensörleri sayesinde çevresini algýlayan, aldýðý bu girdileri yorumlayarak sonuçlar üreten ve bu sonuçlarý çýktý olarak verebilen aygýtlardýr. Bu da bizlere göstermektedir ki günümüzdeki birçok iþ ve iþlemler robotlarýn doðru bir þekilde tasarlanýp kodlanmasý sayesinde gerçekleþtirilebilir. Çünkü insanlarda sahip olduðu duyular sayesinde çevresindeki bilgileri alýp, beyni sayesinde bunlarý iþleyip sonrasýnda organlarý kullanarak sonuçlarýný dýþarýya aktarmaktadýr.
+
+Robotik Kodlama Eðitimi
+Robotik biliminde meydana gelen geliþmeler, bu alana yönelik yapýlan yatýrýmlarý ve teþvikleri de artýrmýþtýr. Geleceðin teknolojisi olarak görülmesinden kaynaklý olarak hem devletler hem de büyük kurumsal firmalar tarafýndan bu alana birçok destek verilmektedir. Ülkemizde de bu alanda birçok okulda kodlama ve robotik eðitimi verilmeye baþlanmýþtýr.
+
+Robotik Eðitimi için Tavsiyeler
+Günümüzde internet üzerinde her konuda sayýsýz kaynak bulmak mümkündür. Fakat kodlama konusunda her þeyden daha çok kaynak bulabilirsiniz. Çünkü bilgisayarýn ve internetin yaygýnlaþmasý ile beraber günümüzde de bu alanda yaþanan geliþmeler, kodlamanýn ve robotiðin önemini ortaya çýkarmýþtýr.
+
+
+ROBOTÝK KODLAMA NASIL YAPILIR?
+Robotik kodlama yapmak artýk çok basit. Özellikle internet çaðýnda sadece robotik kodlama deðil, birçok alanda kýsa sürede bilgi sahibi olabilmek mümkün. Bunun için interneti doðru bir þekilde kullanabilmek önemli. Ýnternette videolar aracýlýðýyla ve doðru kelimeler üzerinden robotik kodlamanýn nasýl yapýldýðýný görmek ve öðrenmek son derece basit.
+
+Birçok robot seti var, arduino, mblock, robotis, lego. vb.. Her robotun kendine göre kodlamasý ve yazýlým araçlarý var. Block þeklinde scract gibi kodlama istiyorsanýz mblock kullanabilirsiniz. Arduino da kendinizde yazabilirsiniz veya block þeklinde scract gibi kodlayadabilirsiniz . Robotiste ve lego da kendi yazýlým arayüzünde ayarlamalarý ve algoritmasýný kurarak kendi kodlarýný kullanarak yazýlýmýný hazýrlýyorsunuz. Bilgisayarýnýza kullandýðýnýz robotun kodlarýný yazmak için yazýlýmýný kuruyorsunuz sonra robotu bilgisayarýnýza bir kablo ile baðlayýp kodlarý robota yüklüyorsunuz.
+
+
+
+ROBOTÝK KODLAMANIN FAYDALARI NELERDÝR?
+3 boyutlu düþünme, þekil ve uzay algýsýnýn geliþimini saðlamak.
+Hayal gücü (imajinasyon) ve ince motor becerilerinin geliþimini saðlamak.
+Becerilerin geliþimiyle beraber, üretme ve buluþ yapma duygularýnýn pekiþtirilmesini saðlamak.
+“Ben bir ürün ortaya koyabiliyorum” özgüveni ve heyecanýný kazandýrarak yeteneklerinin farkýna varmasýný saðlamak.
+Bireylerin, yetenek ve geliþimine uygun ürünler oluþturmasýna fýrsat vererek, kendi yaþ grubundan daha ileri düzeyde kazanýmlar saðlamak.
+
+
+INTERNETTE ROBOTÝK KODLAMA ÖÐRENME YOLLARI NELERDÝR?
+Robotik kodlamayý internet üzerinden de öðrenmek kolaylýkla mümkün. Ýnternet üzerinden robotikk kodlamayý ücretsiz bir þekilde online olarak öðreten platformlar þunlar:
+
+code.org 
+Aralarýnda Bill Gates, Mark Zuckerberg ve Sergey Brin’in de bulunduðu bir grup tarafýndan, ABD’de kodlama eðitiminin yaygýnlaþmasý için kuruldu. Her yaþa uygun.
+
+Scratch 
+8-16 yaþ arasý çocuklarýn kullanýmýna göre tasarlanmýþ oldukça basit bir arayüze sahip programlama ortamý.
+
+Tynker 
+Öðrencilere görsel programlama dilinin mantýðýný öðretmek için tasarlanmýþ bir eðitim platformu.
+
+Kodable
+Ýlkokul öðrencilerine özel. ABD’de her beþ ilkokuldan birinde kullanýlýyor.
+
+Codespark
+Codespark, 4 yaþ üstü çocuklara kodlamanýn ABC’lerini öðretmenin eðlenceli ve etkili yolu. Çocuklar, kendi 3D oyunlarýný tasarlamak ve oluþturmak için temel kodlama kavramlarýný öðreniyorlar.
+
+LightBot
+
+ROBOTÝK KODLAMA ÜCRETSÝZ ÖÐRETEN KURUMLAR VAR MI?
+Robotik kodlama Milli Eðitim Bakanlýðýna baðlý okullarýn dýþýnda bazý kurumlarda da ücretsiz öðretilmektedir. Ýþte robotik kodlamayý ücretsiz veren bazý kurumlar: 
+
+Kodlama Derneði: Dezavantajlý bölgelerde gönüllü eðitim veriyorlar. Ýstanbul’da hafta sonu kurslarý açýldý.
+
+ÝSMEK: Ýstanbul meslek edinme kurslarýnda 8-16 yaþ arasý çocuklar için eðitim veriliyor.
+
+Vodafone - Habitat: ‘Yarýný Kodlayanlar Projesi’ kapsamýnda il il gezerek çocuklara eðitim veriyorlar.
+
+
+
+Sizce kodlama kaçýncý sýnýftan itibaren ders olarak görülmeli?
+
+Bunu iki yönden ele almak gerekiyor. Birincisi; herkesin kodlama bilip bilmemesi gerekliliði. Kodlama çok spesifik bilgi, birikim, ilgi ve istek gerektiren bir olgudur. Herkes bu konudan, kodlama yapmaktan zevk alabilir noktasý çeliþkilidir. Zor bir süreçtir ve bunu þu þekilde algýlamak gerekir; Cin Ali bile çizemeyen öðrenciden yaðlý boya tablo yapmasýný beklemekle ayný þeydir. Ýkincisi ise eðitiminde belli bir yaþ aralýðýna indirilecekse anaokulu gibi bunun oyunlarla öðretilmesi en doðru yöntem olarak gözüküyor. Massachusetts Teknoloji Enstitüsü, Medya Laboratuvarý Yaþam boyu Anaokulu araþtýrma grubunun ücretsiz kullanýlabilecek bir projesi olan Scratch (https://scratch.mit.edu) çocuklarýn kodlama eðitimi almasýnda gösterilebilecek en güzel örnektir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Çocuðunuza evde kodlama öðretmek
+
+
+
+Kabul edelim çocuklarýmýz için her þeye sahip olmak istiyoruz. Öte yandan her þeyi çok hýzlý tüketiyoruz! E markalar, iþletmeler hatta eðitim kurumlarý da bu zaafýmýzý çok iyi biliyorlar. Hal böyleyken “kodlama kurslarý” da piyasada yerini almakta gecikmedi. Bu tarz kurslarýn neler olduðunu, içeriklerinde neler öðretildiðini (en azýndan öðretilmesinin amaçlandýðýný) burada anlatmýþtýk. Bu tarz kurslar yakýnýnýzda olmayabilir, buna ayýracak bütçeniz olmayabilir ya da fikren kurstur, hocadýr vakit ayýrmak istemiyor olabilirsiniz. Size bir haberimiz var; kodlamayý evde kendiniz de çocuðunuza gösterebilirsiniz. Çok da güzel yaparsýnýz, ‘Nasýl?’ýna gelince..
+
+EVDE KODLAMA EÐÝTÝMÝ
+
+Baþlarken;
+Öncelikle bir kaç dakikanýzý ayýrýp daha önce paylaþtýðýmýz KODLAMA NEDÝR yazýmýza göz atýn.  Kodlama ne demek, kodlamaya baþlama yaþý kaç, vb detaylarý yazýda bulacaksýnýz.
+
+2. Kodlama için gerekli teknik ekipman 
+
+Kodlama mantýðýný öðrenmek (ve öðretmek) için illa ki bilgisayara tablete ihtiyacýnýz yok! Çok yakýndan bildiðiniz sýralama kartlarý bu iþe yarayabilir örneðin. Kodlamada çocuklara temel olarak sebep-sonuç iliþkisini anlatmaya çalýþýyoruz dolayýsýyla onlara göstereceðimiz ve sýralamalarýný isteyeceðimiz örneðin; arý-çiçek-petek-bal görselleri de bir kod dizimi sayýlabilir! Bu doðrultuda örnekleri çoðaltabilir; kaðýtsýz, kalemsiz, internetsiz programlama mantýðýný anlatmaya baþlayabilirsiniz.
+
+Bilgisayarsýz kodlama çalýþma örneði:
+
+Tohum ekiyoruz. Malzemelerimiz; saksý, toprak, tohum, su. Önce gerçekten tohumu ekin birlikte. Sonra Küçük kaðýtlara çizdiðiniz (veya dergilerden kestiðiniz) sembolik resimlerden yaptýðýnýz iþlemi sýralamasýný isteyin. toprak > tohum > toprak > su > güneþ > fide. 6 resim alt alta geldi mi? Tebrikler, çocuðunuzla 6 satýr kod yazdýnýz. Örnekleri çoðaltabilirsiniz. Araya alakasýz görseller ekleyip, sýralamayý karýþtýrýp düzeltmesini isteyebilirsiniz. Yani birlikte ‘bug‘larý (yazýlým hatalarý) temizleyebilirsiniz!
+
+3. Önce kendimiz öðrenelim
+
+Sosyal medya araçlarýný kullanabildiðinize, þu an bu sayfada olduðunuza göre sadece bir kaç saat dikkatinizi ayýrýp örnekleri kendi kendinize çözerseniz, çocuðunuzla kodlama yapabilecek duruma gelebilirsiniz. Zaten sonrasý hep pratik ve hep birlikte öðrenme. Öðrenmek, her gün yeni bir detay keþfetmek bitmiyor…
+
+4. Hazýr kaynaklar
+
+Ýnternetten faydalanýn, bulduðunuz uygulamalarý öncelikle bir kaç dakikanýzý ayýrýp kendiniz deneyin. Daha sonra çocuklarla çalýþýn. Takýldýðýnýz yerde, yanýtý bilmediðinizde sorun yok! ‘Birlikte bakalým’ diyebilirsiniz.
+
+EVDE KODLAMA ÝÇÝN YARDIMCI OLABÝLECEK KAYNAKLAR :
+
+Aþaðýdaki linkteki Hour of Code etkinlikleri Türkçedir, mutlaka göz atýn. Çocuðunuzla birlikte yapabileceðiniz çok çeþitli seviyelerde etkinlik bulabilirsiniz;
+
+https://hourofcode.com/tr/learn
+ 
+
+4 – 6 yaþta baþlamaya uygun Scratch Jr uygulamasý;
+
+iOS indirmek için: https://itunes.apple.com/us/app/scratchjr/id895485086?mt=8
+Android için: https://play.google.com/store/apps/details?id=org.scratchjr.android&hl=tr
+ 
+
+Lego ile kodlama
+
+http://ipeksuer.com/lego-boost-ile-kodlama
+ 
+
+5. Ekip çalýþmasý
+
+Code.org sitesi der ki kodlama en güzel ekip çalýþmasý ile verimli oluyor. En az 2, mümkünse daha çok sýnýf arkadaþlarýný veya komþu çocuklarýný toplayýn, iþi beyin fýrtýnasýna dönüþtürün.
+
+
+
+
+
+
+
+
+
+ÇOCUKLAR ÝÇÝN ROBOTÝK UYGULAMALAR NEDEN ÖNEMLÝDÝR?
+
+Oyuncak robotlar çocuklar için pedagojik açýdan çok önemli.
+
+Cep telefonlarý, tabletler, mobilyalara monte edilmiþ dokunmatik ekranlar, kendi kendine çalýþabilen elektrikli süpürge ve benzeri ev eþyalarý. Çocuklar artýk bu eþyalarýn olduðu evlerde büyüyor.
+
+ 
+
+Bilgisayar kontrollü akýllý cihazlar, hayatýmýzýn her alanýnda! Yaþantýmýzýn bir parçasý durumunda. Sadece çocuklarýmýz deðil, insanlarýn çoðu bu cihazlara baðýmlý olmaya baþladýlar. Onlarsýz bir hayat olmayacaðý için kullandýðýmýz bu cihazlarý kendi kontrolümüz altýnda tutmalýyýz. Bu cihazlarý sadece kullanmak deðil, onlarý istediðimiz þekilde yönlendirebilmek ve bu akýllý dediðimiz cihazlarý kendi iþlerimizi kolaylaþtýrmak için daha bilinçli þekilde kullanmalýyýz.   
+
+ 
+
+Avrupa’da gittikçe daha fazla okul robotik ve bilgisayar programlama derslerini okul müfredatýna alýyor. Bilgisayar programlama,artýk 21. yüzyýl için zorunlu bir beceri haline mi geliyor? Çocuklar programlama dilini en erken kaç yaþýnda öðrenebilir?
+
+Bazý Avrupa ülkelerinde bu sorulara hýzlý cevaplar veriliyor. Bazý Avrupa ülkelerinde ilkokul öðrencilerine temel eðitim vermeye baþladýlar bile. Hatta Fransa’da bir proje, bunun okul öncesi eðitim çaðýnda da uygulamasý için çalýþmakta.
+
+ 
+
+Türkiye'de Milli eðitim bakanlýðý okullarda robotik ve kodlama derslerini müfredata koyma çalýþmalarý yapýyor. Bir çok özel okul da robotik ve bilgisayar kodlama derslerini kendi ders programlarýnda öðrencilerine sunmaya baþladýlar. Robotik uygulamalar donanýmsal ekipmanlar gerektirdiði için pahalý bir yatýrým gerektiriyor. Bu nedenle her özel okul kodlama dersi verse de gerçek anlamda robotik uygulama dersleri yapamýyor veya kýsýtlý þekilde yaparak öðrencilerine sunma gayreti içindeler. Eðitim verdiðim kuruluþlarda öðrencilerin robotik uygulamalarýný ve kodlama derslerini zevkle eðlenerek öðrendiklerini gözlemlemekteyim. Öðrenciler, bu teknolojik eðitimi okul dýþýnda destek eðitim veren özel robotik uygulama ve kodlama kurslarýnda da öðrenebilirler. 
+
+ 
+
+Leila Gelas, Öðretmen:“Robotlar, çocuklar için çekici çünkü onlarý televizyonlarda çizgi filmlerde görüyorlar. Bu bir oyuncak sonuçta. Kullandýklarý birþey deðil. Eðlendikleri, çekici bir oyuncak. O halde bu çekici oyuncaklarý da eðitimlerde kullanmasýný bilmeliyiz”
+
+ 
+
+Yassine Serhrouchni, Proje Yöneticisi, Generation Robots: “Bir robotu bir öðrenciyle tanýþtýran öðretmenin çocuklara gün boyunca robotlarýn çalýþmasý ile ilgili söyleyecekleri çok önemli. Öðretmenler çocuklarýn, robotlarýn nasýl programlandýðýna dair düþünmelerini, bilgisayar bilimi ve matematik hakkýnda fikir edinmelerini saðlamalý.Robotlar pedagojik açýdan çok önemli.”
+
+ 
+
+Enformasyon Teknolojileri alanýndaki büyüyen talep bu alandaki bilimsel çalýþmalarý her geçen gün daha önemli kýlýyor. Peki bugün öðrenilen bir programlama dili yarýn eskiyorsa ne yapýlmalý?
+
+ 
+
+Yassine Serhrouchni:“Teknolojiler deðiþir ama arkasýndaki temel ve mantýk hep aynýdýr. Bugün belirli bir programlama dili veya teknolojik veriyi orta okulda öðrenmek çok önemli deðil. Ama programlama yolu ile yaklaþým tarzýný ve problem çözme metodunu öðrenmek bir hayli önemli.”
+
